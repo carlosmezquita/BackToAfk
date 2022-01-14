@@ -1,7 +1,7 @@
 # BeBackAfk
 Mod to get reconnect to Beacoland's survival server after restarts.
 
-##How To use
+## How To use
 
 1. Install fabric an add the mod to your mod's folder 
 2. Join the server Beacoland
