@@ -31,7 +31,7 @@ public class BackToAfk implements ModInitializer {
 		LOGGER.info("Hello Fabric world!");
 		ClientCommandManager.DISPATCHER.register(
 				literal("bafk").then(literal("on").executes(context -> {
-					context.getSource().sendFeedback(new LiteralText("BeBackAfk is now ON").formatted(Formatting.GREEN));
+					context.getSource().sendFeedback(new LiteralText("BackToAfk is now ON").formatted(Formatting.GREEN));
 					isActive = true;
 					return 0;
 				})
@@ -39,7 +39,7 @@ public class BackToAfk implements ModInitializer {
 		));
 		ClientCommandManager.DISPATCHER.register(
 				literal("bafk").then(literal("off").executes(context -> {
-							context.getSource().sendFeedback(new LiteralText("BeBackAfk is now OFF.").formatted(Formatting.RED));
+							context.getSource().sendFeedback(new LiteralText("BackToAfk is now OFF.").formatted(Formatting.RED));
 							isActive = false;
 							return 0;
 						})
@@ -47,7 +47,7 @@ public class BackToAfk implements ModInitializer {
 				));
 		ClientCommandManager.DISPATCHER.register(
 				literal("bafk").executes(context -> {
-							context.getSource().sendFeedback(new LiteralText("BeBackAfk is now set to: " +isActive).formatted(Formatting.GOLD));
+							context.getSource().sendFeedback(new LiteralText("BackToAfk is now set to: " +isActive).formatted(Formatting.GOLD));
 							return 0;
 						})
 
