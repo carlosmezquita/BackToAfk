@@ -1,4 +1,4 @@
-# BeBackAfk
+# BackToAfk
 Minecraft mod to get reconnected to Beacoland's survival server after restart when AFK.
 
 ## How To use
