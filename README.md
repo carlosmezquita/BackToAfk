@@ -1,7 +1,7 @@
 # BackToAfk
 Minecraft mod to get reconnected to Beacoland's survival server after restart when AFK.
 
-## How To use
+## How to use
 
 1. Install fabric an add the mod to your mod's folder 
 2. Join the server Beacoland
