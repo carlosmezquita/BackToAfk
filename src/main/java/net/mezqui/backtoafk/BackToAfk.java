@@ -20,7 +20,7 @@ public class BackToAfk implements ModInitializer {
 	public static final String MOD_ID = "backtoafk";
 
 	private int ticks = -1;
-	static boolean isActive = false;
+	public static boolean isActive = false;
 
 	@Override
 	public void onInitialize() {
