@@ -3,6 +3,10 @@ Minecraft mod to get reconnected to Beacoland's survival server after restart wh
 
 The Fabric API Mod is needed!
 
+## Latest version
+
+Check it out on the (releases)[https://github.com/carlosmezquita/BackToAfk/releases] page!
+
 ## How to use
 
 1. Install fabric an add the mod to your mod's folder 
