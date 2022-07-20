@@ -14,3 +14,4 @@ Check it out on the [releases](https://github.com/carlosmezquita/BackToAfk/relea
 3. Join the Minecraft server Beacoland (play.beacoland.com)
 4. Go to the survival server and right before starting your afk session run `/bafk on`
 5. Once you get back online run `/bafk off`
+6. To check if it's currently active or not run `/bafk`
