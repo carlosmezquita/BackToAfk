@@ -5,7 +5,7 @@ The Fabric API Mod is needed!
 
 ## Latest version
 
-Check it out on the (releases)[https://github.com/carlosmezquita/BackToAfk/releases] page!
+Check it out on the [releases](https://github.com/carlosmezquita/BackToAfk/releases) page!
 
 ## How to use
 
